@@ -29,7 +29,7 @@
     "apollo-link-ws": "^1.0.17",
     "graphql": "^14.3.0",
     "graphql-tag": "^2.10.1",
-    "subscriptions-transport-ws": "^0.9.16",
+    "subscriptions-transport-ws": "^0.11.0",
     "svelte-apollo": "^0.3.0"
   }
 }
